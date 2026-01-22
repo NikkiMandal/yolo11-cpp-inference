@@ -1,0 +1,55 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Model files (too large, can be downloaded)
+*.pt
+*.onnx
+
+# Video files (user-generated)
+*.mp4
+*.avi
+*.mov
+
+# ONNX Runtime library (can be downloaded)
+cpp_inference/onnxruntime-linux-x64-*/
+cpp_inference/*.tgz
+cpp_inference/*.tar.gz
+
+# Build directories
+cpp_inference/build/
+cpp_inference/cmake-build-*/
+build/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled executables
+*.exe
+*.out
+yolo_inference
+yolo_benchmark
+yolo_video
