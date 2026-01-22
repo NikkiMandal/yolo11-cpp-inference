@@ -121,7 +121,7 @@ yolo_cpp_project/
 ├── export_compatible.py               # Python: Export to ONNX
 ├── test_python_video.py               # Python: Baseline benchmark
 ├── record_test_video.py               # Python: Record test video
-├── record_test_webcam.py              # Python: Run yolo on webcam
+├── test_python_webcam.py              # Python: Run yolo on webcam
 │
 └── cpp_inference/                     # C++ implementation
     ├── CMakeLists.txt                 # Build configuration
