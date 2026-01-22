@@ -3,8 +3,8 @@
 ## Hardware Specifications
 
 **System:** Dell Inspiron 16  
-**CPU:** [Your CPU model - check in Settings]  
-**RAM:** [Your RAM amount]  
+**CPU:** Intel Core i7-1360P (13th Gen, 12-core, 2.2-5.0 GHz)  
+**RAM:** 16 GB DDR4/DDR5
 **OS:** Windows 11 with WSL2 (Ubuntu 22.04)  
 **GPU:** Not used (CPU-only inference)
 
