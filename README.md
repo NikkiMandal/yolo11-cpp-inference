@@ -322,7 +322,7 @@ This project demonstrates:
 ## Contact
 
 **Your Name**  
-nikitamandal0302@gmail.com 
+nikitamandal0302@gmail.com
 [LinkedIn](www.linkedin.com/in/nikitamandal03)  
 [GitHub](https://github.com/NikkiMandal)
 
